@@ -1,0 +1,3 @@
+1) Leia um número inteiro e, se for maior que zero, imprima o dobro.
+2)  Leia 3 números e imprima a soma dos dois menores.
+3) Inicialize 3 registradores com números inteiros quaisquer e verifique se correspondem a uma sequencia em potencia de 2 (imprima uma mensagem com os números e se são potência de 2).
